@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coin Flip</string>
+    <string name="switch_text">Simulation mode</string>
+    <string name="button_flip">Flip</string>
+    <string name="button_reset">Reset</string>
+    <string name="text_view_flip">Total flips: 0</string>
+    <string name="text_view_heads">Total heads: 0</string>
+    <string name="text_view_tails">Total tails: 0</string>
+    <string name="textView_heads_percent">Heads: 0%</string>
+    <string name="teaxtViaw_tails_percent">Tails: 0%</string>
+    <string name="button_simulate">Simulate</string>
+    <string name="submit_numer_text">1</string>
+    <string name="image_content">thumb up</string>
+
+
+</resources>
